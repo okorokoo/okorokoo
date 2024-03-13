@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web-Development
 - 🌱 I’m currently learning Python and JavaScript
 - 📫 How to reach me okorokoo@outlook.com
-- ⚡ Fun fact: Bees use dance to communicate
+- ⚡ Fun fact: I will be appreciate, if you`ll offer me a job.
 
 <!---
 okorokoo/okorokoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
