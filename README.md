@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @okorokoo
-- 👀 I’m interested in Web-Development
+- 👀 I’m interested in Backend Development
 - 💪 Python, Flask, SQL, REST API, A&DS, Django, C/C++
 - 🌱 I’m currently learning Python and JavaScript
 - 📫 How to reach me okorokoo@outlook.com
